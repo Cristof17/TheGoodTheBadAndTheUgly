@@ -64,9 +64,5 @@ int main(){
 	}
 	multiply(a, b, res);
 	int i;
-	for (i = res.size() - 1; i >= 0 && !res[i]; -- i);
-	for (; i >= 0; --i){
-		printf("%d ", res[i]);
-	}
 	return 0;
 }

@@ -1,1 +1,1 @@
-CPPFLAGS=-Wall -lm --std=c++11
+CPPFLAGS=-Wall -lm --std=c++11 -g
